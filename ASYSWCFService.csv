@@ -1,0 +1,20 @@
+ASYSWCFService.svc,C9727585,\
+log4net.dll,8C2162AC,\
+REMS.INI,6AC70AA1,\
+REMS.INI 08212020.txt,ED3ECFD8,\
+REMSystem.INI,31C2BABC,\
+REMSystem1.INI,C715E329,\
+REMSystemALL.INI,821ADE01,\
+Service.svc,5E957CAF,\
+WCFService.svc,649816EF,\
+Web.config,81108065,\
+Web.Debug.config,B94499F0,\
+Web1.config,D529AA45,\
+ASYSWCFService.cs,4007EDB4,\App_Code\
+IASYSWCFService.cs,8340764D,\App_Code\
+IService.cs,1352767F,\App_Code\
+IWCFService.cs,49FE07D8,\App_Code\
+Service.cs,B599D856,\App_Code\
+WCFService.cs,D137E507,\App_Code\
+log4net.dll,8C2162AC,\Bin\
+log4net.dll.refresh,52E625AA,\Bin\
