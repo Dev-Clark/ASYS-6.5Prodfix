@@ -1,0 +1,133 @@
+D:\Projects\ASYS\Updated Asys for Fixing IRs\new  OustourceService\ASYSOutsourceService\ASYSOutsourceService\obj\Debug\ASYSOutsourceService.csprojResolveAssemblyReference.cache
+D:\Projects\ASYS\Updated Asys for Fixing IRs\new  OustourceService\ASYSOutsourceService\ASYSOutsourceService\bin\ASYSOutsourceService.dll.config
+D:\Projects\ASYS\Updated Asys for Fixing IRs\new  OustourceService\ASYSOutsourceService\ASYSOutsourceService\bin\ASYSOutsourceService.dll
+D:\Projects\ASYS\Updated Asys for Fixing IRs\new  OustourceService\ASYSOutsourceService\ASYSOutsourceService\bin\ASYSOutsourceService.pdb
+D:\Projects\ASYS\Updated Asys for Fixing IRs\new  OustourceService\ASYSOutsourceService\ASYSOutsourceService\bin\ASYSMVCQuery.pdb
+D:\Projects\ASYS\Updated Asys for Fixing IRs\new  OustourceService\ASYSOutsourceService\ASYSOutsourceService\obj\Debug\ASYSOutsourceService.dll
+D:\Projects\ASYS\Updated Asys for Fixing IRs\new  OustourceService\ASYSOutsourceService\ASYSOutsourceService\obj\Debug\ASYSOutsourceService.pdb
+C:\Users\VALD16091921\Desktop\ASYSOutsourceService\ASYSOutsourceService\bin\ASYSOutsourceService.dll.config
+C:\Users\VALD16091921\Desktop\ASYSOutsourceService\ASYSOutsourceService\bin\ASYSOutsourceService.dll
+C:\Users\VALD16091921\Desktop\ASYSOutsourceService\ASYSOutsourceService\bin\ASYSOutsourceService.pdb
+C:\Users\VALD16091921\Desktop\ASYSOutsourceService\ASYSOutsourceService\bin\ASYSMVCQuery.pdb
+C:\Users\VALD16091921\Desktop\ASYSOutsourceService\ASYSOutsourceService\obj\Debug\ASYSOutsourceService.csprojResolveAssemblyReference.cache
+C:\Users\VALD16091921\Desktop\ASYSOutsourceService\ASYSOutsourceService\obj\Debug\ASYSOutsourceService.dll
+C:\Users\VALD16091921\Desktop\ASYSOutsourceService\ASYSOutsourceService\obj\Debug\ASYSOutsourceService.pdb
+C:\Users\ARNO16092193\Desktop\ASYSOutsourceService\ASYSOutsourceService\bin\ASYSOutsourceService.dll.config
+C:\Users\ARNO16092193\Desktop\ASYSOutsourceService\ASYSOutsourceService\bin\ASYSOutsourceService.dll
+C:\Users\ARNO16092193\Desktop\ASYSOutsourceService\ASYSOutsourceService\bin\ASYSOutsourceService.pdb
+C:\Users\ARNO16092193\Desktop\ASYSOutsourceService\ASYSOutsourceService\bin\ASYSMVCQuery.pdb
+C:\Users\ARNO16092193\Desktop\ASYSOutsourceService\ASYSOutsourceService\obj\Debug\ASYSOutsourceService.csprojResolveAssemblyReference.cache
+C:\Users\ARNO16092193\Desktop\ASYSOutsourceService\ASYSOutsourceService\obj\Debug\ASYSOutsourceService.dll
+C:\Users\ARNO16092193\Desktop\ASYSOutsourceService\ASYSOutsourceService\obj\Debug\ASYSOutsourceService.pdb
+C:\Users\ARNO16092193\Desktop\ASYS 6.0 service\ASYSOutsourceService\ASYSOutsourceService\bin\ASYSOutsourceService.dll.config
+C:\Users\ARNO16092193\Desktop\ASYS 6.0 service\ASYSOutsourceService\ASYSOutsourceService\bin\ASYSOutsourceService.dll
+C:\Users\ARNO16092193\Desktop\ASYS 6.0 service\ASYSOutsourceService\ASYSOutsourceService\bin\ASYSOutsourceService.pdb
+C:\Users\ARNO16092193\Desktop\ASYS 6.0 service\ASYSOutsourceService\ASYSOutsourceService\obj\Debug\ASYSOutsourceService.dll
+C:\Users\ARNO16092193\Desktop\ASYS 6.0 service\ASYSOutsourceService\ASYSOutsourceService\obj\Debug\ASYSOutsourceService.pdb
+C:\Users\ARNO16092193\Desktop\ASYS 6.0 service\ASYSOutsourceService\ASYSOutsourceService\obj\Debug\ASYSOutsourceService.csprojResolveAssemblyReference.cache
+C:\Users\VALD16091921\Desktop\AESOP\ASYSOutsourceService\ASYSOutsourceService\bin\ASYSOutsourceService.dll.config
+C:\Users\VALD16091921\Desktop\AESOP\ASYSOutsourceService\ASYSOutsourceService\bin\ASYSOutsourceService.dll
+C:\Users\VALD16091921\Desktop\AESOP\ASYSOutsourceService\ASYSOutsourceService\bin\ASYSOutsourceService.pdb
+C:\Users\VALD16091921\Desktop\AESOP\ASYSOutsourceService\ASYSOutsourceService\obj\Debug\ASYSOutsourceService.csprojResolveAssemblyReference.cache
+C:\Users\VALD16091921\Desktop\AESOP\ASYSOutsourceService\ASYSOutsourceService\obj\Debug\ASYSOutsourceService.dll
+C:\Users\VALD16091921\Desktop\AESOP\ASYSOutsourceService\ASYSOutsourceService\obj\Debug\ASYSOutsourceService.pdb
+C:\Users\ARNO16092193\Desktop\ASYS 6.0 service\release july\ASYSOutsourceService\ASYSOutsourceService\bin\ASYSOutsourceService.dll.config
+C:\Users\ARNO16092193\Desktop\ASYS 6.0 service\release july\ASYSOutsourceService\ASYSOutsourceService\bin\ASYSOutsourceService.dll
+C:\Users\ARNO16092193\Desktop\ASYS 6.0 service\release july\ASYSOutsourceService\ASYSOutsourceService\bin\ASYSOutsourceService.pdb
+C:\Users\ARNO16092193\Desktop\ASYS 6.0 service\release july\ASYSOutsourceService\ASYSOutsourceService\obj\Debug\ASYSOutsourceService.dll
+C:\Users\ARNO16092193\Desktop\ASYS 6.0 service\release july\ASYSOutsourceService\ASYSOutsourceService\obj\Debug\ASYSOutsourceService.pdb
+C:\Users\ARNO16092193\Desktop\ASYS 6.0 service\release july\ASYSOutsourceService\ASYSOutsourceService\obj\Debug\ASYSOutsourceService.csprojResolveAssemblyReference.cache
+C:\Users\ARNO16092193\Desktop\ASYS 6.0 service\for rem and reports\ASYSOutsourceService\ASYSOutsourceService\bin\ASYSOutsourceService.dll.config
+C:\Users\ARNO16092193\Desktop\ASYS 6.0 service\for rem and reports\ASYSOutsourceService\ASYSOutsourceService\bin\ASYSOutsourceService.dll
+C:\Users\ARNO16092193\Desktop\ASYS 6.0 service\for rem and reports\ASYSOutsourceService\ASYSOutsourceService\bin\ASYSOutsourceService.pdb
+C:\Users\ARNO16092193\Desktop\ASYS 6.0 service\for rem and reports\ASYSOutsourceService\ASYSOutsourceService\obj\Debug\ASYSOutsourceService.dll
+C:\Users\ARNO16092193\Desktop\ASYS 6.0 service\for rem and reports\ASYSOutsourceService\ASYSOutsourceService\obj\Debug\ASYSOutsourceService.pdb
+C:\Users\ARNO16092193\Desktop\ASYS 6.0 service\for rem and reports\ASYSOutsourceService\ASYSOutsourceService\obj\Debug\ASYSOutsourceService.csprojResolveAssemblyReference.cache
+C:\Users\VALD16091921\Desktop\for rem and reports\ASYSOutsourceService\ASYSOutsourceService\bin\ASYSOutsourceService.dll.config
+C:\Users\VALD16091921\Desktop\for rem and reports\ASYSOutsourceService\ASYSOutsourceService\bin\ASYSOutsourceService.dll
+C:\Users\VALD16091921\Desktop\for rem and reports\ASYSOutsourceService\ASYSOutsourceService\bin\ASYSOutsourceService.pdb
+C:\Users\VALD16091921\Desktop\for rem and reports\ASYSOutsourceService\ASYSOutsourceService\obj\Debug\ASYSOutsourceService.csprojResolveAssemblyReference.cache
+C:\Users\VALD16091921\Desktop\for rem and reports\ASYSOutsourceService\ASYSOutsourceService\obj\Debug\ASYSOutsourceService.dll
+C:\Users\VALD16091921\Desktop\for rem and reports\ASYSOutsourceService\ASYSOutsourceService\obj\Debug\ASYSOutsourceService.pdb
+C:\Users\ARNO16092193\Desktop\updated version 6.1\ASYSOutsourceService\ASYSOutsourceService\bin\ASYSOutsourceService.dll.config
+C:\Users\ARNO16092193\Desktop\updated version 6.1\ASYSOutsourceService\ASYSOutsourceService\bin\ASYSOutsourceService.dll
+C:\Users\ARNO16092193\Desktop\updated version 6.1\ASYSOutsourceService\ASYSOutsourceService\bin\ASYSOutsourceService.pdb
+C:\Users\ARNO16092193\Desktop\updated version 6.1\ASYSOutsourceService\ASYSOutsourceService\obj\Debug\ASYSOutsourceService.dll
+C:\Users\ARNO16092193\Desktop\updated version 6.1\ASYSOutsourceService\ASYSOutsourceService\obj\Debug\ASYSOutsourceService.pdb
+C:\Users\ARNO16092193\Desktop\BACK UP SOURCE CODE FOR ASYS VERSIONS WITH SERVICE\updated version 6.1(source code)\ASYSOutsourceService\ASYSOutsourceService\bin\ASYSOutsourceService.dll.config
+C:\Users\ARNO16092193\Desktop\BACK UP SOURCE CODE FOR ASYS VERSIONS WITH SERVICE\updated version 6.1(source code)\ASYSOutsourceService\ASYSOutsourceService\bin\ASYSOutsourceService.dll
+C:\Users\ARNO16092193\Desktop\BACK UP SOURCE CODE FOR ASYS VERSIONS WITH SERVICE\updated version 6.1(source code)\ASYSOutsourceService\ASYSOutsourceService\bin\ASYSOutsourceService.pdb
+C:\Users\ARNO16092193\Desktop\BACK UP SOURCE CODE FOR ASYS VERSIONS WITH SERVICE\updated version 6.1(source code)\ASYSOutsourceService\ASYSOutsourceService\obj\Debug\ASYSOutsourceService.dll
+C:\Users\ARNO16092193\Desktop\BACK UP SOURCE CODE FOR ASYS VERSIONS WITH SERVICE\updated version 6.1(source code)\ASYSOutsourceService\ASYSOutsourceService\obj\Debug\ASYSOutsourceService.pdb
+C:\Users\ARNO16092193\Desktop\BACK UP SOURCE CODE FOR ASYS VERSIONS WITH SERVICE\updated version 6.1(source code)\ASYSOutsourceService\ASYSOutsourceService\obj\Debug\ASYSOutsourceService.csprojResolveAssemblyReference.cache
+C:\Users\test\Desktop\BACK UP SOURCE CODE FOR ASYS VERSIONS WITH SERVICE\updated version 6.1(source code)\ASYSOutsourceService\ASYSOutsourceService\bin\ASYSOutsourceService.dll.config
+C:\Users\test\Desktop\BACK UP SOURCE CODE FOR ASYS VERSIONS WITH SERVICE\updated version 6.1(source code)\ASYSOutsourceService\ASYSOutsourceService\bin\ASYSOutsourceService.dll
+C:\Users\test\Desktop\BACK UP SOURCE CODE FOR ASYS VERSIONS WITH SERVICE\updated version 6.1(source code)\ASYSOutsourceService\ASYSOutsourceService\bin\ASYSOutsourceService.pdb
+C:\Users\test\Desktop\BACK UP SOURCE CODE FOR ASYS VERSIONS WITH SERVICE\updated version 6.1(source code)\ASYSOutsourceService\ASYSOutsourceService\obj\Debug\ASYSOutsourceService.csprojResolveAssemblyReference.cache
+C:\Users\test\Desktop\BACK UP SOURCE CODE FOR ASYS VERSIONS WITH SERVICE\updated version 6.1(source code)\ASYSOutsourceService\ASYSOutsourceService\obj\Debug\ASYSOutsourceService.dll
+C:\Users\test\Desktop\BACK UP SOURCE CODE FOR ASYS VERSIONS WITH SERVICE\updated version 6.1(source code)\ASYSOutsourceService\ASYSOutsourceService\obj\Debug\ASYSOutsourceService.pdb
+C:\Users\ARNO16092193\Desktop\BACK UP SOURCE CODE FOR ASYS VERSIONS WITH SERVICE - 10-24-2017\updated version 6.1(source code)\ASYSOutsourceService\ASYSOutsourceService\bin\ASYSOutsourceService.dll.config
+C:\Users\ARNO16092193\Desktop\BACK UP SOURCE CODE FOR ASYS VERSIONS WITH SERVICE - 10-24-2017\updated version 6.1(source code)\ASYSOutsourceService\ASYSOutsourceService\bin\ASYSOutsourceService.dll
+C:\Users\ARNO16092193\Desktop\BACK UP SOURCE CODE FOR ASYS VERSIONS WITH SERVICE - 10-24-2017\updated version 6.1(source code)\ASYSOutsourceService\ASYSOutsourceService\bin\ASYSOutsourceService.pdb
+C:\Users\ARNO16092193\Desktop\BACK UP SOURCE CODE FOR ASYS VERSIONS WITH SERVICE - 10-24-2017\updated version 6.1(source code)\ASYSOutsourceService\ASYSOutsourceService\obj\Debug\ASYSOutsourceService.csprojResolveAssemblyReference.cache
+C:\Users\ARNO16092193\Desktop\BACK UP SOURCE CODE FOR ASYS VERSIONS WITH SERVICE - 10-24-2017\updated version 6.1(source code)\ASYSOutsourceService\ASYSOutsourceService\obj\Debug\ASYSOutsourceService.dll
+C:\Users\ARNO16092193\Desktop\BACK UP SOURCE CODE FOR ASYS VERSIONS WITH SERVICE - 10-24-2017\updated version 6.1(source code)\ASYSOutsourceService\ASYSOutsourceService\obj\Debug\ASYSOutsourceService.pdb
+C:\Users\Administrator\Desktop\MY Upated service\live_todd\ASYSOutsourceService\ASYSOutsourceService\bin\ASYSOutsourceService.dll.config
+C:\Users\Administrator\Desktop\MY Upated service\live_todd\ASYSOutsourceService\ASYSOutsourceService\bin\ASYSOutsourceService.dll
+C:\Users\Administrator\Desktop\MY Upated service\live_todd\ASYSOutsourceService\ASYSOutsourceService\bin\ASYSOutsourceService.pdb
+C:\Users\Administrator\Desktop\MY Upated service\live_todd\ASYSOutsourceService\ASYSOutsourceService\obj\Debug\ASYSOutsourceService.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\MY Upated service\live_todd\ASYSOutsourceService\ASYSOutsourceService\obj\Debug\ASYSOutsourceService.dll
+C:\Users\Administrator\Desktop\MY Upated service\live_todd\ASYSOutsourceService\ASYSOutsourceService\obj\Debug\ASYSOutsourceService.pdb
+C:\Users\Administrator\Desktop\important stuff\source_code Asys version\MY Upated service FOR 7.1\live_todd\ASYSOutsourceService\ASYSOutsourceService\bin\ASYSOutsourceService.dll.config
+C:\Users\Administrator\Desktop\important stuff\source_code Asys version\MY Upated service FOR 7.1\live_todd\ASYSOutsourceService\ASYSOutsourceService\bin\ASYSOutsourceService.dll
+C:\Users\Administrator\Desktop\important stuff\source_code Asys version\MY Upated service FOR 7.1\live_todd\ASYSOutsourceService\ASYSOutsourceService\bin\ASYSOutsourceService.pdb
+C:\Users\Administrator\Desktop\important stuff\source_code Asys version\MY Upated service FOR 7.1\live_todd\ASYSOutsourceService\ASYSOutsourceService\obj\Debug\ASYSOutsourceService.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\important stuff\source_code Asys version\MY Upated service FOR 7.1\live_todd\ASYSOutsourceService\ASYSOutsourceService\obj\Debug\ASYSOutsourceService.dll
+C:\Users\Administrator\Desktop\important stuff\source_code Asys version\MY Upated service FOR 7.1\live_todd\ASYSOutsourceService\ASYSOutsourceService\obj\Debug\ASYSOutsourceService.pdb
+C:\Users\ARNO16092193\Desktop\MY Upated service FOR 7.1\live_todd\ASYSOutsourceService\ASYSOutsourceService\bin\ASYSOutsourceService.dll.config
+C:\Users\ARNO16092193\Desktop\MY Upated service FOR 7.1\live_todd\ASYSOutsourceService\ASYSOutsourceService\bin\ASYSOutsourceService.dll
+C:\Users\ARNO16092193\Desktop\MY Upated service FOR 7.1\live_todd\ASYSOutsourceService\ASYSOutsourceService\bin\ASYSOutsourceService.pdb
+C:\Users\ARNO16092193\Desktop\MY Upated service FOR 7.1\live_todd\ASYSOutsourceService\ASYSOutsourceService\obj\Debug\ASYSOutsourceService.csprojResolveAssemblyReference.cache
+C:\Users\ARNO16092193\Desktop\MY Upated service FOR 7.1\live_todd\ASYSOutsourceService\ASYSOutsourceService\obj\Debug\ASYSOutsourceService.dll
+C:\Users\ARNO16092193\Desktop\MY Upated service FOR 7.1\live_todd\ASYSOutsourceService\ASYSOutsourceService\obj\Debug\ASYSOutsourceService.pdb
+C:\Users\Administrator\Desktop\(from kaeren)live_todd\ASYSOutsourceService\ASYSOutsourceService\bin\ASYSOutsourceService.dll.config
+C:\Users\Administrator\Desktop\(from kaeren)live_todd\ASYSOutsourceService\ASYSOutsourceService\bin\ASYSOutsourceService.dll
+C:\Users\Administrator\Desktop\(from kaeren)live_todd\ASYSOutsourceService\ASYSOutsourceService\bin\ASYSOutsourceService.pdb
+C:\Users\Administrator\Desktop\(from kaeren)live_todd\ASYSOutsourceService\ASYSOutsourceService\obj\Debug\ASYSOutsourceService.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\(from kaeren)live_todd\ASYSOutsourceService\ASYSOutsourceService\obj\Debug\ASYSOutsourceService.dll
+C:\Users\Administrator\Desktop\(from kaeren)live_todd\ASYSOutsourceService\ASYSOutsourceService\obj\Debug\ASYSOutsourceService.pdb
+C:\Users\Administrator\Desktop\(from kaeren)live_todd\6.1 source code\ASYSOutsourceService\ASYSOutsourceService\bin\ASYSOutsourceService.dll.config
+C:\Users\Administrator\Desktop\(from kaeren)live_todd\6.1 source code\ASYSOutsourceService\ASYSOutsourceService\bin\ASYSOutsourceService.dll
+C:\Users\Administrator\Desktop\(from kaeren)live_todd\6.1 source code\ASYSOutsourceService\ASYSOutsourceService\bin\ASYSOutsourceService.pdb
+C:\Users\Administrator\Desktop\(from kaeren)live_todd\6.1 source code\ASYSOutsourceService\ASYSOutsourceService\obj\Debug\ASYSOutsourceService.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\(from kaeren)live_todd\6.1 source code\ASYSOutsourceService\ASYSOutsourceService\obj\Debug\ASYSOutsourceService.dll
+C:\Users\Administrator\Desktop\(from kaeren)live_todd\6.1 source code\ASYSOutsourceService\ASYSOutsourceService\obj\Debug\ASYSOutsourceService.pdb
+C:\Users\Administrator\Desktop\(from kaeren)live_todd\6.1 b source code\ASYSOutsourceService\ASYSOutsourceService\bin\ASYSOutsourceService.dll.config
+C:\Users\Administrator\Desktop\(from kaeren)live_todd\6.1 b source code\ASYSOutsourceService\ASYSOutsourceService\bin\ASYSOutsourceService.dll
+C:\Users\Administrator\Desktop\(from kaeren)live_todd\6.1 b source code\ASYSOutsourceService\ASYSOutsourceService\bin\ASYSOutsourceService.pdb
+C:\Users\Administrator\Desktop\(from kaeren)live_todd\6.1 b source code\ASYSOutsourceService\ASYSOutsourceService\obj\Debug\ASYSOutsourceService.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\(from kaeren)live_todd\6.1 b source code\ASYSOutsourceService\ASYSOutsourceService\obj\Debug\ASYSOutsourceService.dll
+C:\Users\Administrator\Desktop\(from kaeren)live_todd\6.1 b source code\ASYSOutsourceService\ASYSOutsourceService\obj\Debug\ASYSOutsourceService.pdb
+C:\Users\BOS\Desktop\(from kaeren)live_todd\6.1 b source code\ASYSOutsourceService\ASYSOutsourceService\bin\ASYSOutsourceService.dll.config
+C:\Users\BOS\Desktop\(from kaeren)live_todd\6.1 b source code\ASYSOutsourceService\ASYSOutsourceService\bin\ASYSOutsourceService.dll
+C:\Users\BOS\Desktop\(from kaeren)live_todd\6.1 b source code\ASYSOutsourceService\ASYSOutsourceService\bin\ASYSOutsourceService.pdb
+C:\Users\BOS\Desktop\(from kaeren)live_todd\6.1 b source code\ASYSOutsourceService\ASYSOutsourceService\obj\Debug\ASYSOutsourceService.csprojResolveAssemblyReference.cache
+C:\Users\BOS\Desktop\(from kaeren)live_todd\6.1 b source code\ASYSOutsourceService\ASYSOutsourceService\obj\Debug\ASYSOutsourceService.dll
+C:\Users\BOS\Desktop\(from kaeren)live_todd\6.1 b source code\ASYSOutsourceService\ASYSOutsourceService\obj\Debug\ASYSOutsourceService.pdb
+C:\Users\BOS\Desktop\(from kaeren)live_todd\6.3 source code\ASYSOutsourceService\ASYSOutsourceService\bin\ASYSOutsourceService.dll.config
+C:\Users\BOS\Desktop\(from kaeren)live_todd\6.3 source code\ASYSOutsourceService\ASYSOutsourceService\bin\ASYSOutsourceService.dll
+C:\Users\BOS\Desktop\(from kaeren)live_todd\6.3 source code\ASYSOutsourceService\ASYSOutsourceService\bin\ASYSOutsourceService.pdb
+C:\Users\BOS\Desktop\(from kaeren)live_todd\6.3 source code\ASYSOutsourceService\ASYSOutsourceService\obj\Debug\ASYSOutsourceService.csprojResolveAssemblyReference.cache
+C:\Users\BOS\Desktop\(from kaeren)live_todd\6.3 source code\ASYSOutsourceService\ASYSOutsourceService\obj\Debug\ASYSOutsourceService.dll
+C:\Users\BOS\Desktop\(from kaeren)live_todd\6.3 source code\ASYSOutsourceService\ASYSOutsourceService\obj\Debug\ASYSOutsourceService.pdb
+C:\Users\BOS\Desktop\(from kaeren)live_todd\6.4.2 source code NCR\ASYSOutsourceService\ASYSOutsourceService\bin\ASYSOutsourceService.dll.config
+C:\Users\BOS\Desktop\(from kaeren)live_todd\6.4.2 source code NCR\ASYSOutsourceService\ASYSOutsourceService\bin\ASYSOutsourceService.dll
+C:\Users\BOS\Desktop\(from kaeren)live_todd\6.4.2 source code NCR\ASYSOutsourceService\ASYSOutsourceService\bin\ASYSOutsourceService.pdb
+C:\Users\BOS\Desktop\(from kaeren)live_todd\6.4.2 source code NCR\ASYSOutsourceService\ASYSOutsourceService\obj\Debug\ASYSOutsourceService.dll
+C:\Users\BOS\Desktop\(from kaeren)live_todd\6.4.2 source code NCR\ASYSOutsourceService\ASYSOutsourceService\obj\Debug\ASYSOutsourceService.pdb
+C:\Users\BOS\Desktop\(from kaeren)live_todd\6.4.2 source code NCR\ASYSOutsourceService\ASYSOutsourceService\obj\Debug\ASYSOutsourceService.csprojResolveAssemblyReference.cache
+C:\Users\BOS\Desktop\asys_Source_code\service\Update dateend Service\ASYSOutsourceService\ASYSOutsourceService\bin\ASYSOutsourceService.dll.config
+C:\Users\BOS\Desktop\asys_Source_code\service\Update dateend Service\ASYSOutsourceService\ASYSOutsourceService\bin\ASYSOutsourceService.dll
+C:\Users\BOS\Desktop\asys_Source_code\service\Update dateend Service\ASYSOutsourceService\ASYSOutsourceService\bin\ASYSOutsourceService.pdb
+C:\Users\BOS\Desktop\asys_Source_code\service\Update dateend Service\ASYSOutsourceService\ASYSOutsourceService\obj\Debug\ASYSOutsourceService.dll
+C:\Users\BOS\Desktop\asys_Source_code\service\Update dateend Service\ASYSOutsourceService\ASYSOutsourceService\obj\Debug\ASYSOutsourceService.pdb

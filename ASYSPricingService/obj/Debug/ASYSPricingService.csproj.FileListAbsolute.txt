@@ -1,0 +1,94 @@
+C:\Users\VALD16091921\Desktop\ASYSPricingService\ASYSPricingService\bin\ASYSPricingService.dll.config
+C:\Users\VALD16091921\Desktop\ASYSPricingService\ASYSPricingService\bin\ASYSPricingService.dll
+C:\Users\VALD16091921\Desktop\ASYSPricingService\ASYSPricingService\bin\ASYSPricingService.pdb
+C:\Users\VALD16091921\Desktop\ASYSPricingService\ASYSPricingService\obj\Debug\ASYSPricingService.csprojResolveAssemblyReference.cache
+C:\Users\VALD16091921\Desktop\ASYSPricingService\ASYSPricingService\obj\Debug\ASYSPricingService.dll
+C:\Users\VALD16091921\Desktop\ASYSPricingService\ASYSPricingService\obj\Debug\ASYSPricingService.pdb
+C:\Users\VALD16091921\Desktop\DESKTOP\TODD\ASYS_STUFF\ASYSPricingService\ASYSPricingService\bin\ASYSPricingService.dll.config
+C:\Users\VALD16091921\Desktop\DESKTOP\TODD\ASYS_STUFF\ASYSPricingService\ASYSPricingService\bin\ASYSPricingService.dll
+C:\Users\VALD16091921\Desktop\DESKTOP\TODD\ASYS_STUFF\ASYSPricingService\ASYSPricingService\bin\ASYSPricingService.pdb
+C:\Users\VALD16091921\Desktop\DESKTOP\TODD\ASYS_STUFF\ASYSPricingService\ASYSPricingService\obj\Debug\ASYSPricingService.csprojResolveAssemblyReference.cache
+C:\Users\VALD16091921\Desktop\DESKTOP\TODD\ASYS_STUFF\ASYSPricingService\ASYSPricingService\obj\Debug\ASYSPricingService.dll
+C:\Users\VALD16091921\Desktop\DESKTOP\TODD\ASYS_STUFF\ASYSPricingService\ASYSPricingService\obj\Debug\ASYSPricingService.pdb
+C:\Users\VALD16091921\Desktop\DESKTOP\TODD\ASYS_STUFF\ASYSPricingService\ASYSPricingService\bin\Newtonsoft.Json.dll
+C:\Users\VALD16091921\Desktop\DESKTOP\TODD\ASYS_STUFF\ASYSPricingService\ASYSPricingService\bin\Newtonsoft.Json.xml
+C:\Users\VALD16091921\Desktop\MY_STUFF\ASYSPricingService\ASYSPricingService\bin\ASYSPricingService.dll.config
+C:\Users\VALD16091921\Desktop\MY_STUFF\ASYSPricingService\ASYSPricingService\bin\ASYSPricingService.dll
+C:\Users\VALD16091921\Desktop\MY_STUFF\ASYSPricingService\ASYSPricingService\bin\ASYSPricingService.pdb
+C:\Users\VALD16091921\Desktop\MY_STUFF\ASYSPricingService\ASYSPricingService\bin\Newtonsoft.Json.dll
+C:\Users\VALD16091921\Desktop\MY_STUFF\ASYSPricingService\ASYSPricingService\bin\Newtonsoft.Json.xml
+C:\Users\VALD16091921\Desktop\MY_STUFF\ASYSPricingService\ASYSPricingService\obj\Debug\ASYSPricingService.csprojResolveAssemblyReference.cache
+C:\Users\VALD16091921\Desktop\MY_STUFF\ASYSPricingService\ASYSPricingService\obj\Debug\ASYSPricingService.dll
+C:\Users\VALD16091921\Desktop\MY_STUFF\ASYSPricingService\ASYSPricingService\obj\Debug\ASYSPricingService.pdb
+C:\Users\ARNO16092193\Desktop\ASYS 6.0 service\ASYSPricingService\ASYSPricingService\obj\Debug\ASYSPricingService.dll
+C:\Users\ARNO16092193\Desktop\ASYS 6.0 service\ASYSPricingService\ASYSPricingService\bin\ASYSPricingService.dll.config
+C:\Users\ARNO16092193\Desktop\ASYS 6.0 service\ASYSPricingService\ASYSPricingService\bin\ASYSPricingService.dll
+C:\Users\ARNO16092193\Desktop\ASYS 6.0 service\ASYSPricingService\ASYSPricingService\bin\ASYSPricingService.pdb
+C:\Users\ARNO16092193\Desktop\ASYS 6.0 service\ASYSPricingService\ASYSPricingService\bin\Newtonsoft.Json.dll
+C:\Users\ARNO16092193\Desktop\ASYS 6.0 service\ASYSPricingService\ASYSPricingService\bin\Newtonsoft.Json.xml
+C:\Users\ARNO16092193\Desktop\ASYS 6.0 service\ASYSPricingService\ASYSPricingService\obj\Debug\ASYSPricingService.pdb
+C:\Users\ARNO16092193\Desktop\ASYS 6.0 service\ASYSPricingService\ASYSPricingService\obj\Debug\ASYSPricingService.csprojResolveAssemblyReference.cache
+C:\Users\ARNO16092193\Desktop\BACK UP SOURCE CODE FOR ASYS VERSIONS WITH SERVICE\ASYSPricingService\ASYSPricingService\bin\ASYSPricingService.dll.config
+C:\Users\ARNO16092193\Desktop\BACK UP SOURCE CODE FOR ASYS VERSIONS WITH SERVICE\ASYSPricingService\ASYSPricingService\bin\ASYSPricingService.dll
+C:\Users\ARNO16092193\Desktop\BACK UP SOURCE CODE FOR ASYS VERSIONS WITH SERVICE\ASYSPricingService\ASYSPricingService\bin\ASYSPricingService.pdb
+C:\Users\ARNO16092193\Desktop\BACK UP SOURCE CODE FOR ASYS VERSIONS WITH SERVICE\ASYSPricingService\ASYSPricingService\bin\Newtonsoft.Json.dll
+C:\Users\ARNO16092193\Desktop\BACK UP SOURCE CODE FOR ASYS VERSIONS WITH SERVICE\ASYSPricingService\ASYSPricingService\bin\Newtonsoft.Json.xml
+C:\Users\ARNO16092193\Desktop\BACK UP SOURCE CODE FOR ASYS VERSIONS WITH SERVICE\ASYSPricingService\ASYSPricingService\obj\Debug\ASYSPricingService.csprojResolveAssemblyReference.cache
+C:\Users\ARNO16092193\Desktop\BACK UP SOURCE CODE FOR ASYS VERSIONS WITH SERVICE\ASYSPricingService\ASYSPricingService\obj\Debug\ASYSPricingService.dll
+C:\Users\ARNO16092193\Desktop\BACK UP SOURCE CODE FOR ASYS VERSIONS WITH SERVICE\ASYSPricingService\ASYSPricingService\obj\Debug\ASYSPricingService.pdb
+C:\Users\ARNO16092193\Desktop\BACK UP SOURCE CODE FOR ASYS VERSIONS WITH SERVICE - 10-24-2017\updated version 6.1(source code)\ASYSPricingService\ASYSPricingService\bin\ASYSPricingService.dll.config
+C:\Users\ARNO16092193\Desktop\BACK UP SOURCE CODE FOR ASYS VERSIONS WITH SERVICE - 10-24-2017\updated version 6.1(source code)\ASYSPricingService\ASYSPricingService\bin\ASYSPricingService.dll
+C:\Users\ARNO16092193\Desktop\BACK UP SOURCE CODE FOR ASYS VERSIONS WITH SERVICE - 10-24-2017\updated version 6.1(source code)\ASYSPricingService\ASYSPricingService\bin\ASYSPricingService.pdb
+C:\Users\ARNO16092193\Desktop\BACK UP SOURCE CODE FOR ASYS VERSIONS WITH SERVICE - 10-24-2017\updated version 6.1(source code)\ASYSPricingService\ASYSPricingService\bin\Newtonsoft.Json.dll
+C:\Users\ARNO16092193\Desktop\BACK UP SOURCE CODE FOR ASYS VERSIONS WITH SERVICE - 10-24-2017\updated version 6.1(source code)\ASYSPricingService\ASYSPricingService\bin\Newtonsoft.Json.xml
+C:\Users\ARNO16092193\Desktop\BACK UP SOURCE CODE FOR ASYS VERSIONS WITH SERVICE - 10-24-2017\updated version 6.1(source code)\ASYSPricingService\ASYSPricingService\obj\Debug\ASYSPricingService.csprojResolveAssemblyReference.cache
+C:\Users\ARNO16092193\Desktop\BACK UP SOURCE CODE FOR ASYS VERSIONS WITH SERVICE - 10-24-2017\updated version 6.1(source code)\ASYSPricingService\ASYSPricingService\obj\Debug\ASYSPricingService.dll
+C:\Users\ARNO16092193\Desktop\BACK UP SOURCE CODE FOR ASYS VERSIONS WITH SERVICE - 10-24-2017\updated version 6.1(source code)\ASYSPricingService\ASYSPricingService\obj\Debug\ASYSPricingService.pdb
+C:\Users\Administrator\Desktop\important stuff\source_code Asys version\MY Upated service FOR 7.1\live_todd\ASYSPricingService\ASYSPricingService\bin\ASYSPricingService.dll.config
+C:\Users\Administrator\Desktop\important stuff\source_code Asys version\MY Upated service FOR 7.1\live_todd\ASYSPricingService\ASYSPricingService\bin\ASYSPricingService.dll
+C:\Users\Administrator\Desktop\important stuff\source_code Asys version\MY Upated service FOR 7.1\live_todd\ASYSPricingService\ASYSPricingService\bin\ASYSPricingService.pdb
+C:\Users\Administrator\Desktop\important stuff\source_code Asys version\MY Upated service FOR 7.1\live_todd\ASYSPricingService\ASYSPricingService\bin\Newtonsoft.Json.dll
+C:\Users\Administrator\Desktop\important stuff\source_code Asys version\MY Upated service FOR 7.1\live_todd\ASYSPricingService\ASYSPricingService\bin\Newtonsoft.Json.xml
+C:\Users\Administrator\Desktop\important stuff\source_code Asys version\MY Upated service FOR 7.1\live_todd\ASYSPricingService\ASYSPricingService\obj\Debug\ASYSPricingService.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\important stuff\source_code Asys version\MY Upated service FOR 7.1\live_todd\ASYSPricingService\ASYSPricingService\obj\Debug\ASYSPricingService.dll
+C:\Users\Administrator\Desktop\important stuff\source_code Asys version\MY Upated service FOR 7.1\live_todd\ASYSPricingService\ASYSPricingService\obj\Debug\ASYSPricingService.pdb
+C:\Users\ARNO16092193\Desktop\MY Upated service FOR 7.1\live_todd\ASYSPricingService\ASYSPricingService\bin\ASYSPricingService.dll.config
+C:\Users\ARNO16092193\Desktop\MY Upated service FOR 7.1\live_todd\ASYSPricingService\ASYSPricingService\bin\ASYSPricingService.dll
+C:\Users\ARNO16092193\Desktop\MY Upated service FOR 7.1\live_todd\ASYSPricingService\ASYSPricingService\bin\ASYSPricingService.pdb
+C:\Users\ARNO16092193\Desktop\MY Upated service FOR 7.1\live_todd\ASYSPricingService\ASYSPricingService\bin\Newtonsoft.Json.dll
+C:\Users\ARNO16092193\Desktop\MY Upated service FOR 7.1\live_todd\ASYSPricingService\ASYSPricingService\bin\Newtonsoft.Json.xml
+C:\Users\ARNO16092193\Desktop\MY Upated service FOR 7.1\live_todd\ASYSPricingService\ASYSPricingService\obj\Debug\ASYSPricingService.dll
+C:\Users\ARNO16092193\Desktop\MY Upated service FOR 7.1\live_todd\ASYSPricingService\ASYSPricingService\obj\Debug\ASYSPricingService.pdb
+C:\Users\ARNO16092193\Desktop\MY Upated service FOR 7.1\live_todd\ASYSPricingService\ASYSPricingService\obj\Debug\ASYSPricingService.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\(from kaeren)live_todd\ASYSPricingService\ASYSPricingService\bin\ASYSPricingService.dll.config
+C:\Users\Administrator\Desktop\(from kaeren)live_todd\ASYSPricingService\ASYSPricingService\bin\ASYSPricingService.dll
+C:\Users\Administrator\Desktop\(from kaeren)live_todd\ASYSPricingService\ASYSPricingService\bin\ASYSPricingService.pdb
+C:\Users\Administrator\Desktop\(from kaeren)live_todd\ASYSPricingService\ASYSPricingService\bin\Newtonsoft.Json.dll
+C:\Users\Administrator\Desktop\(from kaeren)live_todd\ASYSPricingService\ASYSPricingService\bin\Newtonsoft.Json.xml
+C:\Users\Administrator\Desktop\(from kaeren)live_todd\ASYSPricingService\ASYSPricingService\obj\Debug\ASYSPricingService.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\(from kaeren)live_todd\ASYSPricingService\ASYSPricingService\obj\Debug\ASYSPricingService.dll
+C:\Users\Administrator\Desktop\(from kaeren)live_todd\ASYSPricingService\ASYSPricingService\obj\Debug\ASYSPricingService.pdb
+C:\Users\Administrator\Desktop\(from kaeren)live_todd\6.1 b source code\ASYSPricingService\ASYSPricingService\bin\ASYSPricingService.dll.config
+C:\Users\Administrator\Desktop\(from kaeren)live_todd\6.1 b source code\ASYSPricingService\ASYSPricingService\bin\ASYSPricingService.dll
+C:\Users\Administrator\Desktop\(from kaeren)live_todd\6.1 b source code\ASYSPricingService\ASYSPricingService\bin\ASYSPricingService.pdb
+C:\Users\Administrator\Desktop\(from kaeren)live_todd\6.1 b source code\ASYSPricingService\ASYSPricingService\bin\Newtonsoft.Json.dll
+C:\Users\Administrator\Desktop\(from kaeren)live_todd\6.1 b source code\ASYSPricingService\ASYSPricingService\bin\Newtonsoft.Json.xml
+C:\Users\Administrator\Desktop\(from kaeren)live_todd\6.1 b source code\ASYSPricingService\ASYSPricingService\obj\Debug\ASYSPricingService.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\(from kaeren)live_todd\6.1 b source code\ASYSPricingService\ASYSPricingService\obj\Debug\ASYSPricingService.dll
+C:\Users\Administrator\Desktop\(from kaeren)live_todd\6.1 b source code\ASYSPricingService\ASYSPricingService\obj\Debug\ASYSPricingService.pdb
+C:\Users\BOS\Desktop\(from kaeren)live_todd\6.1 b source code\ASYSPricingService\ASYSPricingService\bin\ASYSPricingService.dll.config
+C:\Users\BOS\Desktop\(from kaeren)live_todd\6.1 b source code\ASYSPricingService\ASYSPricingService\bin\ASYSPricingService.dll
+C:\Users\BOS\Desktop\(from kaeren)live_todd\6.1 b source code\ASYSPricingService\ASYSPricingService\bin\ASYSPricingService.pdb
+C:\Users\BOS\Desktop\(from kaeren)live_todd\6.1 b source code\ASYSPricingService\ASYSPricingService\bin\Newtonsoft.Json.dll
+C:\Users\BOS\Desktop\(from kaeren)live_todd\6.1 b source code\ASYSPricingService\ASYSPricingService\bin\Newtonsoft.Json.xml
+C:\Users\BOS\Desktop\(from kaeren)live_todd\6.1 b source code\ASYSPricingService\ASYSPricingService\obj\Debug\ASYSPricingService.csprojResolveAssemblyReference.cache
+C:\Users\BOS\Desktop\(from kaeren)live_todd\6.1 b source code\ASYSPricingService\ASYSPricingService\obj\Debug\ASYSPricingService.dll
+C:\Users\BOS\Desktop\(from kaeren)live_todd\6.1 b source code\ASYSPricingService\ASYSPricingService\obj\Debug\ASYSPricingService.pdb
+C:\Users\BOS\Desktop\(from kaeren)live_todd\6.3 source code\ASYSPricingService\ASYSPricingService\bin\ASYSPricingService.dll.config
+C:\Users\BOS\Desktop\(from kaeren)live_todd\6.3 source code\ASYSPricingService\ASYSPricingService\bin\ASYSPricingService.dll
+C:\Users\BOS\Desktop\(from kaeren)live_todd\6.3 source code\ASYSPricingService\ASYSPricingService\bin\ASYSPricingService.pdb
+C:\Users\BOS\Desktop\(from kaeren)live_todd\6.3 source code\ASYSPricingService\ASYSPricingService\bin\Newtonsoft.Json.dll
+C:\Users\BOS\Desktop\(from kaeren)live_todd\6.3 source code\ASYSPricingService\ASYSPricingService\bin\Newtonsoft.Json.xml
+C:\Users\BOS\Desktop\(from kaeren)live_todd\6.3 source code\ASYSPricingService\ASYSPricingService\obj\Debug\ASYSPricingService.dll
+C:\Users\BOS\Desktop\(from kaeren)live_todd\6.3 source code\ASYSPricingService\ASYSPricingService\obj\Debug\ASYSPricingService.pdb
+C:\Users\BOS\Desktop\(from kaeren)live_todd\6.3 source code\ASYSPricingService\ASYSPricingService\obj\Debug\ASYSPricingService.csprojResolveAssemblyReference.cache
